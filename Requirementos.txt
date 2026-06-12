@@ -1,0 +1,4 @@
+PyQt5
+fpdf2
+lxml
+pyOpenSSL
