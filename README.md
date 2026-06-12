@@ -71,14 +71,14 @@ python sistema_nfe.py
 
 ## 📸 Imagens do Sistema
 
-Adicione aqui capturas das telas de:
+### Tela Cliente
 
-* Clientes
-* Produtos
-* Vendas
-* Configurações
-* Emissão de NF-e
+![Tela Despesas](Tela%20Cliente.PNG)
 
+
+### Tela Fechamento Vendas
+
+![Tela Fechamento Mensal](Tela%20Vendas.PNG)
 ## 👨‍💻 Autor
 
 Marcos Stark
